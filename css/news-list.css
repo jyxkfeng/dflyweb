@@ -1,0 +1,115 @@
+@media screen and (max-width:300px){body{font-size:10px!important}}
+@media screen and (max-width:310px) and (min-width:301px){body{font-size:11px!important}}
+@media screen and (max-width:320px) and (min-width:311px){body{font-size:13px!important}}
+@media screen and (max-width:350px) and (min-width:321px){body{font-size:13px!important}}
+@media screen and (max-width:360px) and (min-width:351px){body{font-size:13px!important}}
+@media screen and (max-width:470px) and (min-width:361px){body{font-size:14px!important}}
+@media screen and (max-width:480px) and (min-width:471px){body{font-size:15px!important}}
+@media screen and (min-width:480px){body{font-size:15px!important}}
+.top {
+	background-color: #3d95d5;
+	text-align: center;
+	color: #FFFFFF;
+	padding: 10px 15px;
+	font-size: 1.7em;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+}
+.acol {
+	color: #3d95d5!important;
+	border-bottom: 3px solid #3d95d5!important;
+	padding-bottom: 8px!important;
+}
+.fq a {
+	float: left;
+	display: block;
+	width: 33.33%;
+	font-size: 1.3em;
+	text-align: center;
+	color: #adadad;
+	text-decoration: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom:1px solid #d9d9d9;
+}
+.blin{
+	font-size:1.1em;
+	border-bottom:solid 1px #d9d9d9;
+	padding: 10px;
+}
+#tr1 p {
+	margin-top: 2%;
+	margin-left: 5%;
+	margin-bottom: 2%;
+	margin-right: 5%;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #2e71d3;
+	line-height: 200%;
+	text-align: center;
+}
+
+
+#tr1 a {color: #FFFFFF;text-decoration: none;}
+.ktt{border-bottom:#e6e6e6 solid 1px; padding:1.2%; background:#FFFFFF;}
+input,textarea{font-size: 1.2em;padding: 2px;width:82%;}
+.cts p {
+	line-height: 150%;
+	color: #333333;
+}
+.cts .tt3 {
+	background:url(../img/t.jpg) no-repeat left center;
+	padding-left: 6%;
+	background-size:5%;
+	line-height: 200%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	font-size: 0.8em!important;
+}
+.cts img {
+	width: 36%;
+	float: left;
+	margin-right: 2%;
+	border:none;
+}
+.cts {
+	border-bottom:1px solid #d9d9d9;
+	padding:0.7em 0.5em;
+}
+.cts a {
+	display: block;
+}
+.cts .tit {
+	margin: 0px;
+	font-size: 1em;
+}
+.cts .tt2 {
+	font-size: 0.7em;
+	color: #666666;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+.imgydiv{float:left; width:62%;}
+.list {
+    line-height: 30px;
+    margin:20px 0;
+  
+}
+.list .listbg {background: url("../img/list.png") no-repeat 170px top;}
+.list li {
+    list-style-type: none;
+    padding: 0px;
+    float: left;
+    margin: 0px 0px 0px 10px;
+    height: 30px;
+    width: 70px;
+    text-align: center;
+}
+.list li a {
+    background: transparent url("../img/list.png") no-repeat scroll 0% 0%;
+    display: block;
+}
